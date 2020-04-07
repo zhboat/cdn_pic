@@ -1,4 +1,4 @@
-步骤可参考[我的博客](https://zhboat.ink/%E5%85%8D%E8%B4%B9%E5%9B%BE%E5%BA%8A%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/)或[wiki](https://blog.svend.cc/upic/)
+步骤可参考[我的博客](https://zhboat.ink/免费图床/)或[wiki](https://blog.svend.cc/upic/)
 
 使用jsDelivr加速GitHub图片  </br>
 本地使用[upic](https://github.com/gee1k/uPic)上传图片<p>
